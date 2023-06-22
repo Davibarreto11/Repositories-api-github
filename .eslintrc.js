@@ -13,5 +13,10 @@ module.exports = {
       'warn',
       { extensions: ['.jsx', '.js'] },
     ],
+    'import/no-extraneous-dependencies': 'off',
+    'import/prefer-default-export': [
+      ('off'),
+      { target: 'single' },
+    ],
   },
 };
