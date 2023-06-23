@@ -29,7 +29,7 @@ function Repository() {
   }, []);
 
   return loading
-    ? <Loading disabled={loading}>Carregando</Loading>
+    ? <Loading>Carregando</Loading>
 
     : (
       <Container>
