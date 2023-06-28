@@ -1,5 +1,5 @@
-<h1 align="center"> Searching Api GitHub Repository</h1>
-<p align="center">React app using github api to rescue repositories</p>
+<h1> Searching Api GitHub Repository</h1>
+<p>React app using github api to rescue repositories</p>
 
 # Getting Started with Create React App
 
